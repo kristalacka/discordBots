@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/43910501/how-do-i-retrieve-individual-video-urls-from-a-playlist-using-youtube-dl-within
