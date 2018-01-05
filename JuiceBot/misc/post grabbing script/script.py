@@ -1,10 +1,10 @@
 import praw
 
-reddit = praw.Reddit(client_id='gZbPvEUcPPHepw',
-                     client_secret='JmzpEnSH-3z17wnYdRVMuUrekfM',
-                     user_agent='Discord bot by /u/xxjuiceboxxx',
-                     username='DCJuiceBot',
-                     password='AwMiNoclan4f4')
+reddit = praw.Reddit(client_id='<ID>',
+                     client_secret='<Secret>',
+                     user_agent='<UA>',
+                     username='<UN>',
+                     password='<pass>')
 
 file = open('insults.txt', 'w', encoding = 'utf-8')
 subreddit=reddit.subreddit('insults')
