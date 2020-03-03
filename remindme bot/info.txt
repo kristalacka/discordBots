@@ -1,2 +1,0 @@
-http://apscheduler.readthedocs.io/en/latest/modules/schedulers/asyncio.html 
-fucking hell shoulda seen this sooner
